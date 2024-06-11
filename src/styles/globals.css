@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper{width:100%!important;height:100%!important;margin-left:auto!important;margin-right:auto!important}.swiper-slide{display:flex!important}
+
+.pic-top {
+    position: fixed;
+    top: 48px;
+    z-index: 99990;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+  
+  
